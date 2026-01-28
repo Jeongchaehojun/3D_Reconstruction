@@ -277,6 +277,3 @@ MIT License - 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
 
 ---
 
-<p align="center">
-  Made with ❤️ for 3D Computer Vision
-</p>
