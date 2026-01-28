@@ -1,0 +1,14 @@
+# 3D Reconstruction (Structure from Motion) Dependencies
+
+# Core libraries
+numpy>=1.21.0
+scipy>=1.7.0
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0  # For SIFT
+
+# 3D visualization
+open3d>=0.15.0
+matplotlib>=3.4.0
+
+# Optional: Bundle Adjustment
+# g2o or ceres-solver (system install required)
